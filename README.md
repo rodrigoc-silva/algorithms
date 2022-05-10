@@ -2,7 +2,7 @@
 
 ## Divide and Conquer
 
-  - [ ] Karatsuba
+  - [x] Karatsuba
   - [ ] Inversion Calculator
   - [ ] Quick Sort
   - [ ] MinCut
